@@ -3,7 +3,7 @@ var Math={
     {
         if(typeof(x)==="number" && typeof(y)==="number")
             return x+y;
-         else 
+         else
          {
              console.log("arguments passed are not of type number");
          }
@@ -97,11 +97,11 @@ var Math={
         }
         else if(typeof(x)==="number" && typeof(y)==="number")
         {
-            
+
         }
         else
         {
             console.log("arguments passed are not of type number");
         }
     }
-}
+};
